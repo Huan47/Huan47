@@ -10,3 +10,4 @@
 Huan47/Huan47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Check dist/](https://github.com/actions/publish-immutable-action/actions/workflows/check-dist.yml/badge.svg)](https://github.com/actions/publish-immutable-action/actions/workflows/check-dist.yml)
